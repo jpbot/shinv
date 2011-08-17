@@ -1,0 +1,27 @@
+This will be a perl script that will eventially create output similar
+to the IRIX hinv command.
+
+Sample (IRIX):
+# hinv
+1 180 MHZ IP27 Processor
+CPU: MIPS R10000 Processor Chip Revision: 2.6
+FPU: MIPS R10010 Floating Point Chip Revision: 2.6
+Main memory size: 2048 Mbytes
+Instruction cache size: 32 Kbytes
+Data cache size: 32 Kbytes
+Secondary unified instruction/data cache size: 1 Mbyte
+Integral SCSI controller 0: Version QL1040B (rev. 2), single ended
+  Disk drive: unit 1 on SCSI controller 0
+  Disk drive: unit 2 on SCSI controller 0
+  Disk drive: unit 3 on SCSI controller 0
+  Disk drive: unit 4 on SCSI controller 0
+  Disk drive: unit 5 on SCSI controller 0
+  Disk drive: unit 6 on SCSI controller 0
+Integral SCSI controller 1: Version QL1040B (rev. 2), single ended
+  CDROM: unit 6 on SCSI controller 1
+IOC3/IOC4 serial port: tty1
+IOC3/IOC4 serial port: tty2
+IOC3 parallel port: plp1
+Integral Fast Ethernet: ef0, version 1, module 1, slot MotherBoard, pci 2
+Origin 200 base I/O, module 1 slot 1
+IOC3/IOC4 external interrupts: 1
